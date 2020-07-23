@@ -44,7 +44,6 @@ function App() {
     box-shadow: 2px 2px 7px #999;
     transition: background 1s ease-in;  
   `;
-
   return (
     <div className="bg" style={ {backgroundColor: `#${corhex}` } }>
       <Body>
